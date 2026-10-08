@@ -1,0 +1,18 @@
+services:
+  - type: web
+    name: floraquest-trail-botanist
+    runtime: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn app.main:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.8
+      - key: ENVIRONMENT
+        value: production
+      - key: BACKBOARD_API_KEY
+        sync: false
+      - key: TINKER_API_KEY
+        sync: false
+      - key: TINKER_MODEL_ID
+        value: floraquest-qwen-tuned-v1
