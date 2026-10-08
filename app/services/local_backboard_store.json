@@ -1,0 +1,155 @@
+{
+  "user_expeditions": [],
+  "sightings": [
+    {
+      "id": "sighting-1791449079595",
+      "species_name": "Wild Garlic / Ramsons",
+      "scientific_name": "Allium ursinum",
+      "category": "Wild Edible Herb",
+      "trail_location": "Whispering Pines Trail",
+      "timestamp": "2026-10-08T14:14:39.595904",
+      "safety_rating": "Safe Edible",
+      "confidence": 0.98,
+      "notes": "Broad, bright green elliptical leaves on individual triangular stalks. Pungent, unmistakable garlic/onion aroma when crushed. Star-shaped white blossoms in clusters",
+      "synced_to_cloud": true
+    },
+    {
+      "id": "sighting-1791448936361",
+      "species_name": "Golden Chanterelle",
+      "scientific_name": "Cantharellus cibarius",
+      "category": "Flora",
+      "trail_location": "Pine Crest Mile 4",
+      "timestamp": "2026-10-08T14:12:16.361249",
+      "safety_rating": "Choice Edible",
+      "confidence": 0.9,
+      "notes": "Found on trail near Douglas fir",
+      "synced_to_cloud": true,
+      "backboard_memory_id": "69694370-fb96-458a-8d00-b2b932d194ed"
+    },
+    {
+      "id": "sighting-1791448478564",
+      "species_name": "Stinging Nettle",
+      "scientific_name": "Urtica dioica",
+      "category": "Medicinal & Edible Herb",
+      "trail_location": "Whispering Pines Trail",
+      "timestamp": "2026-10-08T14:04:38.564246",
+      "safety_rating": "Edible (Cooked/Steeped)",
+      "confidence": 0.95,
+      "notes": "Serrated heart-shaped to lanceolate opposite leaves. Fine hollow stinging hairs (trichomes) on stems and undersides. Rich in iron, calcium, and vitamin A/C",
+      "synced_to_cloud": true
+    },
+    {
+      "id": "sighting-1791448206870",
+      "species_name": "Wild Garlic / Ramsons",
+      "scientific_name": "Allium ursinum",
+      "category": "Wild Edible Herb",
+      "trail_location": "Whispering Pines Trail",
+      "timestamp": "2026-10-08T14:00:06.870301",
+      "safety_rating": "Safe Edible",
+      "confidence": 0.98,
+      "notes": "Broad, bright green elliptical leaves on individual triangular stalks. Pungent, unmistakable garlic/onion aroma when crushed. Star-shaped white blossoms in clusters",
+      "synced_to_cloud": true
+    },
+    {
+      "id": "sighting-1791448129983",
+      "species_name": "Golden Chanterelle",
+      "scientific_name": "Cantharellus cibarius",
+      "category": "Wild Mushroom",
+      "trail_location": "Whispering Pines Trail",
+      "timestamp": "2026-10-08T13:58:49.984058",
+      "safety_rating": "Choice Edible",
+      "confidence": 0.97,
+      "notes": "Blunt, fork-like ridges running down the stem (false gills, not blade-like). Fruity, pleasant aroma resembling fresh apricots. Solid stem with white-to-pale-yellow interior flesh",
+      "synced_to_cloud": true
+    },
+    {
+      "id": "sighting-1791447743429",
+      "species_name": "Golden Chanterelle",
+      "scientific_name": "Cantharellus cibarius",
+      "category": "Wild Mushroom",
+      "trail_location": "Whispering Pines Mile 3",
+      "timestamp": "2026-10-08T13:52:23.429643",
+      "safety_rating": "Choice Edible",
+      "confidence": 0.97,
+      "notes": "Spotted near mossy oak trunk.",
+      "synced_to_cloud": true
+    },
+    {
+      "id": "sighting-1791447532112",
+      "species_name": "Golden Chanterelle",
+      "scientific_name": "Unknown",
+      "category": "Flora",
+      "trail_location": "Current Trail Location",
+      "timestamp": "2026-10-08T13:48:52.112667",
+      "safety_rating": "Choice Edible",
+      "confidence": 0.9,
+      "notes": "Found on trail",
+      "synced_to_cloud": true
+    },
+    {
+      "id": "sighting-1791447523428",
+      "species_name": "Golden Chanterelle",
+      "scientific_name": "Unknown",
+      "category": "Flora",
+      "trail_location": "Current Trail Location",
+      "timestamp": "2026-10-08T13:48:43.428268",
+      "safety_rating": "Choice Edible",
+      "confidence": 0.9,
+      "notes": "Found on trail",
+      "synced_to_cloud": false
+    },
+    {
+      "id": "init-1",
+      "species_name": "Golden Chanterelle",
+      "scientific_name": "Cantharellus cibarius",
+      "category": "Mushroom / Edible",
+      "trail_location": "Whispering Pines Trail (Mile 2.4)",
+      "timestamp": "2026-10-08T13:48:43.423700",
+      "safety_rating": "Safe Edible",
+      "confidence": 0.96,
+      "notes": "Spotted under mature Douglas fir after recent rainfall. Distinct apricot aroma.",
+      "synced_to_cloud": true
+    },
+    {
+      "id": "init-2",
+      "species_name": "Autumn Coral Fungus",
+      "scientific_name": "Ramaria aurea",
+      "category": "Fungi / Lookalike Caution",
+      "trail_location": "Ridgecrest Overlook",
+      "timestamp": "2026-10-08T13:48:43.423738",
+      "safety_rating": "Caution - Non-edible",
+      "confidence": 0.91,
+      "notes": "Yellow branching structure. High risk of gastrointestinal irritation.",
+      "synced_to_cloud": true
+    }
+  ],
+  "active_quests": [
+    {
+      "id": "quest-1",
+      "title": "Autumn Foliage & Acorn Scout",
+      "description": "Spot 3 deciduous oak leaves turning amber and inspect their acorns for local wildlife health.",
+      "progress": 2,
+      "target": 3,
+      "badge": "Oak Sentinel",
+      "completed": false
+    },
+    {
+      "id": "quest-2",
+      "title": "Fungi Foraging Safety Check",
+      "description": "Identify at least 1 wild edible mushroom and check for toxic lookalikes on your trail.",
+      "progress": 1,
+      "target": 1,
+      "badge": "Myco Safe-Explorer",
+      "completed": true
+    },
+    {
+      "id": "quest-3",
+      "title": "Offline Trail Walk",
+      "description": "Record an expedition with minimal screen time (under 3 min total interaction).",
+      "progress": 1,
+      "target": 1,
+      "badge": "True Grass Toucher",
+      "completed": true
+    }
+  ]
+}
